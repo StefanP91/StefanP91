@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **StefanP91/StefanP91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hi, I'm Stefan</b>
+<p>Hey there, welcome!
+</br>
+I'm Stefan, Front End developer from <img src="https://cdn.countryflags.com/thumbs/north-macedonia/flag-round-250.png" width="14px"/> <b>Veles, Macedonia</b>.</br>
+
+💡 &nbsp;I like to explore new trends and learn new technologies. Always seeking for new challenges and keeping myself up to date.
+
+## 🔥 Latest Projects:
