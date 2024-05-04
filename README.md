@@ -23,3 +23,4 @@ I'm Stefan, Front End developer from <img src="https://cdn.countryflags.com/thum
 💡 &nbsp;I like to explore new trends and learn new technologies. Always seeking for new challenges and keeping myself up to date.
 
 ## 🔥 Latest Projects:
+-https://stefanp91.github.io/ZFK-Veles-/
