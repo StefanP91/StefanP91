@@ -24,5 +24,6 @@ I'm Stefan, Front End developer from <img src="https://cdn.countryflags.com/thum
 
 ## 🔥 Latest Projects:
 - [Female Football Club ZFK Veles](https://stefanp91.github.io/ZFK-Veles-/)
-- [Detect-ION-Landing-Page](https://detect-ion-1.netlify.app))
+- [Detect-ION-Landing-Page](https://detect-ion-1.netlify.app)
 - [Tech Job Fair](https://techjobfair.netlify.app)
+- [Digital Marketing](https://creativehubkos.com/digital-marketing/)
