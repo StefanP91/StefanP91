@@ -25,6 +25,6 @@ I'm Stefan, Full Stack developer from <img src="https://cdn.countryflags.com/thu
 ## 🔥 Latest Projects:
 - [Female Football Club ZFK Veles](https://stefanp91.github.io/ZFK-Veles-/)
 - [Detect-ION-Landing-Page](https://detect-ion-1.netlify.app)
-- [Landing Page CH]([https://techjobfair.netlify.app](https://landing-page-ch.netlify.app/))
+- [Landing Page CH](https://landing-page-ch.netlify.app/)
 - [Digital Marketing](https://creativehubkos.com/digital-marketing/)
 - [City of Miami](https://cityofmiami.netlify.app/)
