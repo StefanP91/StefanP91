@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hi, I'm Stefan</b>
 <p>Hey there, welcome!
 </br>
-I'm Stefan, Full Stack developer from <img src="https://cdn.countryflags.com/thumbs/north-macedonia/flag-round-250.png" width="14px"/> <b>Veles, Macedonia</b>.</br>
+I'm Stefan, Full-stack developer from <img src="https://cdn.countryflags.com/thumbs/north-macedonia/flag-round-250.png" width="14px"/> <b>Veles, Macedonia</b>.</br>
 
 💡 &nbsp;I like to explore new trends and learn new technologies. Always seeking for new challenges and keeping myself up to date.
 
